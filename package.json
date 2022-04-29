@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Studies about Core Modules & Template Building",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciusrma/nodefarm.git"
+  },
+  "author": "Vinícius Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viniciusrma/nodefarm/issues"
+  },
+  "homepage": "https://github.com/viniciusrma/nodefarm#readme",
+  "dependencies": {
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
