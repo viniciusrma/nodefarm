@@ -1,8 +1,9 @@
 <h1  align="center">
   Node Farm
-  
-  <img src="https://i.ibb.co/YZVVkRm/nodefarm.png" alt="nodefarm" border="0">
-</h1>
+  </h1>
+
+ <img align="center" src="https://i.ibb.co/YZVVkRm/nodefarm.png" alt="nodefarm" border="0">
+
   
 ## 📍 Index
 
