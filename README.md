@@ -1,5 +1,7 @@
 <h1  align="center">
   Node Farm
+  
+  <img src="https://ibb.co/jRjjM6m" alt="logo" border="0">
 </h1>
   
 ## 📍 Index
