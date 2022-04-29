@@ -1,5 +1,6 @@
 <h1  align="center">
    <img align="center" src="https://i.ibb.co/YZVVkRm/nodefarm.png" alt="nodefarm" border="0">
+   <img src="https://i.ibb.co/TMr5d1v/nodefarm-1.png" alt="nodefarm-1" border="0">
  </h1>
 
 
