@@ -19,7 +19,7 @@
 
 Welcome!
 
-This project was developed in NodeJs, in studis about Core Modules & Template Building
+This project was developed in NodeJs, in studies about Core Modules & Template Building
 
 <a  id="applied-technologies"></a>
 
